@@ -1,0 +1,4 @@
+rootProject.name = 'fore-multiplatform'
+
+
+enableFeaturePreview('GRADLE_METADATA')
